@@ -1,0 +1,19 @@
+{
+    "S": [
+        "NP",
+        "NP or NP",
+        "NP and NP",
+        "NP PL",
+        "I am PL",
+        "PN_gen NP",
+        "NP or: NP VT_3rd NP"
+    ],
+    "VP": [
+        "got lost PL",
+        "PL",
+        "VT_3rd NP"
+    ],
+    "NP": ["N", "N", "NC", "DET N", "DET ADJ N", "PN", "DET N", "ADJ N", "DET ADJ , ADJ N", "PN_gen N"],
+    "DET": ["the", "a"],
+    "N": [], "NC": [], "N_PL": [], "V": [], "ADJ": [], "VT": [], "PN": [], "PL": [], "VT_3rd": [], "V_3rd": []
+}
